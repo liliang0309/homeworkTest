@@ -1,0 +1,18 @@
+# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# 编译产物
+bin/
+obj/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
